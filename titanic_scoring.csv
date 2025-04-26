@@ -1,0 +1,6 @@
+Pclass,Gender,Age,Fare,Embarked,Nationality
+3,male,25,8.05,S,British
+1,female,40,100,C,American
+2,male,60,30,S,Australian
+3,female,18,7.75,Q,Indian
+1,male,35,200,C,Iranian
